@@ -43,6 +43,7 @@
     <modules>
         <module>commons</module>
         <module>starter</module>
+        <module>data-jpa</module>
         <module>rest-service-A</module>
         <module>rest-service-B</module>
     </modules>
